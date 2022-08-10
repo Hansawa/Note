@@ -1,0 +1,11 @@
+- 将元素的`display`属性的值设置为`inline`时，`margin`、`padding`、`width`与`height`属性将不再生效，除非设置`float`属性或将`display`属性的值设置为`inline-block`.
+- `inline`元素不能设置`width`与`height`，除非设置为`block`或`inline-block`
+- 给元素设置`line-height`可以垂直居中文字
+- block的元素不可以被父级元素center
+- 元素居中用margin：0 auto
+- 随窗体滚动而移动：position：fixed
+- opacity：透明度
+- filter：滤镜
+- style中可以不加type属性
+- readonly:expression(this.readonly=true)只是用于IE，一般只在js脚本中对元素进行行为控制，而css只设置元素样式
+

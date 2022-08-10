@@ -1,0 +1,1 @@
+SCSS 是 Sass 3 引入的新的语法，其后缀名是分别为.sass和.scss两种。 SASS版本3.0之前的后缀名为.sass，而版本3.0之后的后缀名.scss

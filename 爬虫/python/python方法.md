@@ -1,0 +1,3 @@
+enumerate(iterable)：会将迭代器转化成一个每个元素是一个有计数与迭代值的元组的枚举
+
+list(iterable)：可以将迭代器转成一个列表

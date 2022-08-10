@@ -1,0 +1,1 @@
+- 从网上下载的txt文件乱码：在word中打开，按提示处理 [如何解决下载下来的TXT文字乱码问题-百度经验 (baidu.com)](https://jingyan.baidu.com/article/fb48e8be46371a6e632e145c.html)

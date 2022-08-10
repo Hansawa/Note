@@ -1,0 +1,1 @@
+dosbox的debug的ror，shr等不能直接使用立即数（除非1）

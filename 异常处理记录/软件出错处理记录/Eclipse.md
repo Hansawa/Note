@@ -1,0 +1,2 @@
+- 主目录移动位置后打不开：将`eclipse.ini`文件中`-install`项的值修改为移动后主目录的路径
+- `.properties`文件中文乱码：将解析该种文件的编码修改为`UTF-8`。具体操作：`Windows->Preferance->General->Content Type->Text->Java Properties File`，将`Default encoding`的值改为`UTF-8`，点击`Update`后保存退出

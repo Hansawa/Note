@@ -1,0 +1,1 @@
+- 无限时间试用：删除”c:\ProgramData” 下的SafeNet Sentinel文件夹，再运行UFT安装目录下bin目录中的instdemo.exe (管理员权限运行)
