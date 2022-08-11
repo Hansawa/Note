@@ -26,4 +26,4 @@ $ git remote add origin 仓库地址
 
 $ git remote remove origin
 
-$ git push origin branchname
+$ git push origin [branchname | master]
