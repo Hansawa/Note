@@ -85,26 +85,37 @@ find 搜索路径 [选项] 搜索内容
 ## @Vim命令
 
 - -b：二进制模式，可以看见一些平时看不见的脱字符
-
 + 向后查找：`:/*`
+
 + 向前查找：`:?*`
+
 + 连续查找：向后n，向前N
+
 + 取消查找：`:noh`
+
 + 复制n行：nyy
+
 + 粘贴：p
+
 + 剪切一行：dd
+
 + 打开多个文件：vs. https://www.cnblogs.com/chenmo-xpw/p/5954919.html
+
 + v可视模式下复制多行：y复制，p粘贴，c剪切，shift+>右移
+
 + 字符串替换：`:行号，行号s/string1/string2/` 替换两行号之间所有的 string1 为 string2
+
 + 字符串替换：`:s/string1/string2/` 替换当前行的 string1 为 string2
+
 + 字符串替换：`:%s/string1/string2/g` 替换所有的 string1 为 string2
+
 + ga：可以显示光标所在字符的ascii编码
 
 ## @read命令
 
 ```shell
 read -p "  " #在输入时显示信息
-read -s	   #安静模式，不显示输入字符
+read -s       #安静模式，不显示输入字符
 ```
 
 ## @echo命令
@@ -140,4 +151,3 @@ jps #是jdk提供的查看当前java进程的小工具
 ## @用户操作
 
 - 删除用户：userdel -r 用户名
-
