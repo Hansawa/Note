@@ -517,7 +517,7 @@ export default defineConfig(({command, mode, ssrBuild}) => {
 
         strictPort: true,
 
-        // open: true,
+        open: true,
         /* 每次启动时是否自动打开页面 */
 
         /* 热部署 */
@@ -544,8 +544,6 @@ export default defineConfig(({command, mode, ssrBuild}) => {
     }
   }
 })
-
-
 ```
 
 vite 配置文档[Configuring Vite | Vite (vitejs.dev)](https://vitejs.dev/config/)
