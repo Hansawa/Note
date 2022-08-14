@@ -8,4 +8,3 @@
 - filter：滤镜
 - style中可以不加type属性
 - readonly:expression(this.readonly=true)只是用于IE，一般只在js脚本中对元素进行行为控制，而css只设置元素样式
-

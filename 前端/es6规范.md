@@ -1,6 +1,7 @@
 1. 模块化编程export和import
 
 export：用于规定模块的对外接口
+
 ```js
 /* 文件1 */
 /*export*/
